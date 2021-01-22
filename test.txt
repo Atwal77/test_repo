@@ -2,4 +2,5 @@ git status
 git init
 git add
 git log
-git diff
+git diff (compares the version of present staging area and present working directory)
+git diff --staged (compares the version of previous commit and present staging area)
