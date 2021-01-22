@@ -4,6 +4,11 @@ git add
 git log
 git diff (compares the version of present staging area and present working directory)
 git diff --staged (compares the version of previous commit and present staging area)
-
-
-hello there
+git rm
+git mv
+git rm --cached <filename> //to untrack the given file
+git log 
+git log -p
+git log -p 2
+git log --stat
+git log --pretty
