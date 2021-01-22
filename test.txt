@@ -6,4 +6,4 @@ git diff (compares the version of present staging area and present working direc
 git diff --staged (compares the version of previous commit and present staging area)
 
 
-hello 
+hello there
