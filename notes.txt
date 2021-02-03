@@ -12,3 +12,6 @@ git log -p
 git log -p 2
 git log --stat
 git log --pretty
+
+
+changed!
